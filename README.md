@@ -73,8 +73,21 @@ Feeds: 5 configurados
 │ # │ Título            │ Empresa │ Keywords         │
 │ 1 │ QA Engineer       │ Acme    │ QA, Automation   │
 │ 2 │ Playwright Tester │ Corp    │ Playwright, QA   │
-╰──────────────────────────────────────────╯
-```
+ ╰──────────────────────────────────────────╯
+ ```
+
+---
+
+## Screenshots
+
+### Terminal output
+![Terminal output with colored table](screenshots/console-output.png)
+
+### Results saved to CSV
+![CSV file with job listings](screenshots/csv-output.png)
+
+### Project structure
+![Folder structure overview](screenshots/structure.png)
 
 ---
 
